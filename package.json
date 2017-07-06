@@ -1,0 +1,24 @@
+{
+    "name": "cordova-plugin-nsuserdefaults-for-app-groups-rootzoll",
+    "version": "1.0.0",
+    "description": ">This plugin is used to save and load data to the app groups. It
+  is used to share data between App and Share Extension. CORDOVA CLI 7.0 VERSION",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rootzoll/cordova-plugin-nsuserdefaults-for-app-groups.git"
+    },
+    "author": "Joschka Schulz",
+    "license": "Apache 2.0",
+    "bugs": {
+        "url": "https://github.com/rootzoll/cordova-plugin-nsuserdefaults-for-app-groups/issues"
+    },
+    "homepage": "https://github.com/rootzoll/cordova-plugin-nsuserdefaults-for-app-groups#readme",
+    "keywords": [
+        "ecosystem:cordova",
+        "cordova-android",
+        "cordova-ios"
+    ]
+}
