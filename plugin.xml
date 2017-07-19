@@ -7,7 +7,7 @@
   <author>Joschka Schulz</author>
   <license>Apache 2.0</license>
   <keywords>cordova,device,app groups</keywords>
-  <repo>https://github.com/protonet/cordova-plugin-nsuserdefaults-for-app-groups</repo>
+  <repo>https://github.com/rootzoll/cordova-plugin-nsuserdefaults-for-app-groups</repo>
 
   <js-module src="www/app_groups_user_defaults.js" name="AppGroupsUserDefaults">
     <clobbers target="AppGroupsUserDefaults" />
