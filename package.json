@@ -1,5 +1,5 @@
 {
-    "name": "cordova-plugin-nsuserdefaults-for-app-group",
+    "name": "info.protonet.appgroupsuserdefaults",
     "version": "1.0.0",
     "description": "This plugin is used to save and load data to the app groups. It is used to share data between App and Share Extension. CORDOVA CLI 7.0 VERSION",
     "scripts": {
